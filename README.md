@@ -58,9 +58,8 @@ Research      arXiv · HuggingFace · ORCID · ResearchGate
 ### Elsewhere
 
 - 🌐 [vixdev.cloud](https://vixdev.cloud)
-- 🔬 [research.vixdev.cloud](https://research.vixdev.cloud)
+- 🔬 [arxiv]([https://research.vixdev.cloud](https://arxiv.org/search/cs?searchtype=author&query=Ferrel,+V))
 - 🤗 [huggingface.co/Vix0007](https://huggingface.co/Vix0007)
-- 📄 [arXiv:2604.02149](https://arxiv.org/abs/2604.02149)
 - 🎮 [modrinth.com/user/Vix.](https://modrinth.com/user/Vix.)
 
 ---
